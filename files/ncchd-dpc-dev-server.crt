@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            15:20:b2:9f:57:39:d1:29:9c:38:0c:98:b5:41:98:cd
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=:ncchd-root
+        Validity
+            Not Before: Aug 19 08:20:06 2024 GMT
+            Not After : Jul 26 08:20:06 2124 GMT
+        Subject: CN=ncchd-dpc-dev-server
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:f9:e9:62:e2:28:2b:f3:2b:6b:eb:cb:c4:b9:d2:
+                    6d:26:2d:7a:ea:6a:5f:59:80:84:ec:a5:eb:91:0c:
+                    00:c4:0c:1d:8e:6f:52:0f:1d:fd:10:a2:9d:17:20:
+                    2b:65:f8:4d:f3:e9:4e:3d:0d:28:4b:1c:8a:f0:50:
+                    12:6c:72:74:85:6f:a8:62:49:4f:3e:e7:67:c1:e2:
+                    e3:b8:71:4d:eb:14:c3:e0:03:ed:5e:dc:71:c2:0d:
+                    48:bd:f1:0d:e9:ba:68:0a:61:db:af:60:84:eb:02:
+                    bb:bb:0d:a5:eb:fa:6a:1b:46:a8:94:41:6b:66:9b:
+                    cc:b8:0d:54:cc:de:46:08:b2:30:aa:10:3f:ff:9d:
+                    bb:2e:b5:91:f3:0c:b4:3b:b6:be:09:81:a7:1c:e1:
+                    bb:8b:32:75:e0:1f:0c:eb:2d:91:44:7c:bc:9f:84:
+                    dd:13:d1:bf:ff:93:40:09:3a:21:6c:8b:29:11:04:
+                    1f:b6:2d:b0:2d:91:05:91:3a:77:fc:69:03:39:cf:
+                    26:7d:99:e1:64:06:c8:79:2b:d2:dd:dc:f4:a5:79:
+                    33:a4:90:cc:75:48:21:ba:df:b8:82:5d:7a:0e:d1:
+                    6a:87:83:86:06:67:8e:2d:5b:57:c1:d6:0a:77:ef:
+                    04:6f:a9:52:61:97:b9:0c:f8:94:f4:fb:c1:83:37:
+                    a5:b7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                B4:BC:4A:4D:4D:3E:DA:C1:BA:39:6D:12:50:D1:80:01:61:0D:13:A7
+            X509v3 Authority Key Identifier: 
+                keyid:63:7A:03:B8:71:0C:A2:06:31:4F:A7:BE:96:09:CA:EB:35:2D:CA:1E
+                DirName:/CN=:ncchd-root
+                serial:C5:80:ED:D3:F5:BA:E1:52
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:ncchd-dpc-dev-server
+    Signature Algorithm: sha256WithRSAEncryption
+         24:47:e2:51:5a:f4:75:7b:30:0d:e8:83:ad:8f:7d:b2:72:3a:
+         c3:fd:c2:94:7c:98:f6:2e:3c:91:8f:2e:6d:79:94:76:40:7f:
+         6e:d2:5d:61:5f:21:09:2f:4f:02:62:d7:95:a0:74:df:36:e7:
+         80:d5:77:56:ba:80:72:fc:ad:10:30:57:85:57:7f:25:20:04:
+         0c:f4:28:c4:8a:1c:75:79:cb:72:d0:2d:b2:75:d5:9f:0b:fa:
+         42:f2:34:d0:15:c5:75:f9:cd:ea:a1:15:5d:75:43:fe:ac:a7:
+         ec:29:11:94:2a:50:e4:a7:6b:5c:f9:ba:83:fa:5f:89:21:20:
+         c7:a5:0f:fc:62:14:5d:47:d3:93:21:d4:9b:ad:f1:c9:9f:cd:
+         00:6e:a8:63:c7:f2:63:d6:a8:ac:87:0d:86:a3:7b:b7:8c:4f:
+         86:42:10:09:72:49:ff:89:55:8c:d3:54:83:ef:0d:a8:01:fa:
+         33:40:27:35:7f:8c:97:17:60:8c:09:09:2f:32:f1:2a:d6:09:
+         74:b1:00:23:20:45:fe:94:20:8c:e5:0d:12:03:da:b8:64:5f:
+         3f:58:b5:b0:02:8f:41:fd:53:96:55:bc:d8:2c:24:13:ae:53:
+         68:7b:7b:62:cd:78:8f:c9:07:ed:6c:da:d8:21:f3:cc:e0:56:
+         d2:eb:92:f9
+-----BEGIN CERTIFICATE-----
+MIIDejCCAmKgAwIBAgIQFSCyn1c50SmcOAyYtUGYzTANBgkqhkiG9w0BAQsFADAW
+MRQwEgYDVQQDDAs6bmNjaGQtcm9vdDAgFw0yNDA4MTkwODIwMDZaGA8yMTI0MDcy
+NjA4MjAwNlowHzEdMBsGA1UEAwwUbmNjaGQtZHBjLWRldi1zZXJ2ZXIwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQD56WLiKCvzK2vry8S50m0mLXrqal9Z
+gITspeuRDADEDB2Ob1IPHf0Qop0XICtl+E3z6U49DShLHIrwUBJscnSFb6hiSU8+
+52fB4uO4cU3rFMPgA+1e3HHCDUi98Q3pumgKYduvYITrAru7DaXr+mobRqiUQWtm
+m8y4DVTM3kYIsjCqED//nbsutZHzDLQ7tr4Jgacc4buLMnXgHwzrLZFEfLyfhN0T
+0b//k0AJOiFsiykRBB+2LbAtkQWROnf8aQM5zyZ9meFkBsh5K9Ld3PSleTOkkMx1
+SCG637iCXXoO0WqHg4YGZ44tW1fB1gp37wRvqVJhl7kM+JT0+8GDN6W3AgMBAAGj
+gbgwgbUwCQYDVR0TBAIwADAdBgNVHQ4EFgQUtLxKTU0+2sG6OW0SUNGAAWENE6cw
+RgYDVR0jBD8wPYAUY3oDuHEMogYxT6e+lgnK6zUtyh6hGqQYMBYxFDASBgNVBAMM
+CzpuY2NoZC1yb290ggkAxYDt0/W64VIwEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYD
+VR0PBAQDAgWgMB8GA1UdEQQYMBaCFG5jY2hkLWRwYy1kZXYtc2VydmVyMA0GCSqG
+SIb3DQEBCwUAA4IBAQAkR+JRWvR1ezAN6IOtj32ycjrD/cKUfJj2LjyRjy5teZR2
+QH9u0l1hXyEJL08CYteVoHTfNueA1XdWuoBy/K0QMFeFV38lIAQM9CjEihx1ecty
+0C2yddWfC/pC8jTQFcV1+c3qoRVddUP+rKfsKRGUKlDkp2tc+bqD+l+JISDHpQ/8
+YhRdR9OTIdSbrfHJn80Abqhjx/Jj1qishw2Go3u3jE+GQhAJckn/iVWM01SD7w2o
+AfozQCc1f4yXF2CMCQkvMvEq1gl0sQAjIEX+lCCM5Q0SA9q4ZF8/WLWwAo9B/VOW
+VbzYLCQTrlNoe3tizXiPyQftbNrYIfPM4FbS65L5
+-----END CERTIFICATE-----
